@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/Night9Knight/Keeper-App/static/js/main.e0ccbe57.chunk.js",
-    "main.js.map": "/Night9Knight/Keeper-App/static/js/main.e0ccbe57.chunk.js.map",
-    "runtime-main.js": "/Night9Knight/Keeper-App/static/js/runtime-main.504fbccf.js",
-    "runtime-main.js.map": "/Night9Knight/Keeper-App/static/js/runtime-main.504fbccf.js.map",
-    "static/js/2.1ffe84ea.chunk.js": "/Night9Knight/Keeper-App/static/js/2.1ffe84ea.chunk.js",
-    "static/js/2.1ffe84ea.chunk.js.map": "/Night9Knight/Keeper-App/static/js/2.1ffe84ea.chunk.js.map",
-    "index.html": "/Night9Knight/Keeper-App/index.html",
-    "precache-manifest.d07469f9bd06edb630ccc8e2eca9d3b1.js": "/Night9Knight/Keeper-App/precache-manifest.d07469f9bd06edb630ccc8e2eca9d3b1.js",
-    "service-worker.js": "/Night9Knight/Keeper-App/service-worker.js",
-    "static/js/2.1ffe84ea.chunk.js.LICENSE.txt": "/Night9Knight/Keeper-App/static/js/2.1ffe84ea.chunk.js.LICENSE.txt"
+    "main.js": "/Keeper-App/static/js/main.e0ccbe57.chunk.js",
+    "main.js.map": "/Keeper-App/static/js/main.e0ccbe57.chunk.js.map",
+    "runtime-main.js": "/Keeper-App/static/js/runtime-main.d0d0a995.js",
+    "runtime-main.js.map": "/Keeper-App/static/js/runtime-main.d0d0a995.js.map",
+    "static/js/2.1ffe84ea.chunk.js": "/Keeper-App/static/js/2.1ffe84ea.chunk.js",
+    "static/js/2.1ffe84ea.chunk.js.map": "/Keeper-App/static/js/2.1ffe84ea.chunk.js.map",
+    "index.html": "/Keeper-App/index.html",
+    "precache-manifest.65fa49d09eff650b2a2bc0549e131d24.js": "/Keeper-App/precache-manifest.65fa49d09eff650b2a2bc0549e131d24.js",
+    "service-worker.js": "/Keeper-App/service-worker.js",
+    "static/js/2.1ffe84ea.chunk.js.LICENSE.txt": "/Keeper-App/static/js/2.1ffe84ea.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.504fbccf.js",
+    "static/js/runtime-main.d0d0a995.js",
     "static/js/2.1ffe84ea.chunk.js",
     "static/js/main.e0ccbe57.chunk.js"
   ]
