@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Night9Knight/Keeper-App/precache-manifest.b8f0636091df65c2785c1bd7e3733d3b.js"
+  "/Night9Knight/Keeper-App/precache-manifest.d07469f9bd06edb630ccc8e2eca9d3b1.js"
 );
 
 self.addEventListener('message', (event) => {
